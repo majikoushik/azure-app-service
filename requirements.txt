@@ -1,0 +1,5 @@
+# Python 3.11; Oryx installs these on Azure App Service
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
+gunicorn>=22,<26
+requests>=2.32,<3
